@@ -6,7 +6,7 @@ html, body {
     padding: 0;
 }
 body {
-    background-color: #9fc5e8;
+    background-color: #FDFDF8;
     color: #000000;
     /*font-family: 'Cabin', sans-serif;*/
     font-family: 'Lato', sans-serif;
@@ -96,14 +96,14 @@ ul{
     display: inline;
     position: relative;
 }
-/*.navigation .nav1 li a {
-    color: #000;
+.navigation .nav1 li a {
+    color: #000000;
     display: inline-block;
     font-size: 14px;
     font-weight: 400;
     letter-spacing: 1px;
     text-transform: uppercase;
-}*/
+}
 
 /*carousel*/
 #myCarousel1 .carousel-caption {
@@ -208,7 +208,7 @@ ul{
     text-transform: uppercase;
 }
 .cl-effect-10 a span {
-    background: #fff none repeat scroll 0 0;
+    background: #E0E0E0 none repeat scroll 0 0;
     display: block;
     padding: 10px 15px;
     transition: transform 0.3s ease 0s;
